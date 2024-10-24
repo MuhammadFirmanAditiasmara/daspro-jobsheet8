@@ -18,6 +18,7 @@ public class Porseni {
         N = sc.nextInt();
 
         int j = 1;
+       
         sc.nextLine();
         for (int i = 1; i <= N; i++) {
             System.out.print("Masukkan Jenis Cabang Olahraga ke-" + i + " = ");
